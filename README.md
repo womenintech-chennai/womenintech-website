@@ -18,3 +18,4 @@ We are thinking of putting together a small website to post info and blogs about
 ## Contributors
 
 1. [Bhavani Ravi](https://github.com/bhavaniravi)
+2. [Harishma Arivazhagan](https://github.com/AHarishma/)
