@@ -20,3 +20,9 @@ We are thinking of putting together a small website to post info and blogs about
 1. [Bhavani Ravi](https://github.com/bhavaniravi)
 2. [Nimmy Vipin](https://github.com/NimmyVipin)
 3. [Harishma Arivazhagan](https://github.com/AHarishma/)
+
+
+
+Name- Malavika.V
+Tech I know - application development, image processing
+I can contribute in the devlopment
