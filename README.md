@@ -27,3 +27,4 @@ We are thinking of putting together a small website to post info and blogs about
 6. [Eswari Jayakumar](https://github.com/eswarijayakumar)
    **Tech I already know:** *Java and JS Frameworks*
    *I can help with both frontend and backend development of this website* 
+6. [Meera Sundar](https://github.com/meerasndr)  
