@@ -20,8 +20,9 @@ To setup and run this repository in local machine,
 
 1. Fork and [Clone](https://help.github.com/en/articles/cloning-a-repository) this repository into your machine.
 2. Open Terminal/Command Prompt and navigate to the folder where you have cloned this repo.
-3. Type `npm install` and press Enter to install the dependencies libraries need for running the site.
-4. Then run the command `gatsby develop`. It will start the server at port 8000. 
+3. Ensure `Node.js` and `npm` is running in your machine.Otherwise, [Install node and npm](https://www.npmjs.com/get-npm) first.
+4. Type `npm install` and press Enter to install the dependencies libraries need for running the site.
+5. Then run the command `gatsby develop`. It will start the server at port 8000. 
 Now you can view the server locally in your browser at http://localhost:8000
 
 ## Contributors
