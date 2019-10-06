@@ -29,10 +29,10 @@ Now you can view the server locally in your browser at http://localhost:8000
 1. [Bhavani Ravi](https://github.com/bhavaniravi)
 2. [Nimmy Vipin](https://github.com/NimmyVipin)
 3. [Harishma Arivazhagan](https://github.com/AHarishma/)
-4.[Malavika Venkatesh](https://github.com/MalavikaVenkatesh)
-Name- Malavika.V
-Tech I know - application development, image processing
-I can contribute in the devlopment
+    **Tech I already know:** *Spring, ReactJS*  
+   *I can help in FrontEndDevelopment with ReactJS* 
+4. [Malavika Venkatesh](https://github.com/MalavikaVenkatesh)
+    **Tech I already know:** *application development, image processing*
+    *I can contribute in the devlopment*
 5. [Bhuvana](https://github.com/bhuvana-guna)
-6. [Meera Sundar](https://github.com/meerasndr) 
-
+6. [Meera Sundar](https://github.com/meerasndr)
