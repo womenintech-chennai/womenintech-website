@@ -3,3 +3,4 @@ I added some more pages for the website
 - Inspirational videos page.
 - New Updates page.
 - Addition to that, a small Coding Challenges page.
+- crossing bridges ( this will contain stories about the struggles we faced and how we overcame it) 
