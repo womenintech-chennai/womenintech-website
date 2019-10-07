@@ -15,15 +15,26 @@ We are thinking of putting together a small website to post info and blogs about
 3. Gatsby
 4. Netlify
 
+## Setup and Installation
+To setup and run this repository in local machine,
+
+1. Fork and [Clone](https://help.github.com/en/articles/cloning-a-repository) this repository into your machine.
+2. Open Terminal/Command Prompt and navigate to the folder where you have cloned this repo.
+3. Ensure `Node.js` and `npm` is running in your machine.Otherwise, [Install node and npm](https://www.npmjs.com/get-npm) first.
+4. Type `npm install` and press Enter to install the dependencies libraries need for running the site.
+5. Then run the command `gatsby develop`. It will start the server at port 8000. 
+Now you can view the server locally in your browser at http://localhost:8000
+
 ## Contributors
 
 1. [Bhavani Ravi](https://github.com/bhavaniravi)
 2. [Nimmy Vipin](https://github.com/NimmyVipin)
-3. [Harishma Arivazhagan](https://github.com/AHarishma/)
-4.[Malavika Venkatesh](https://github.com/MalavikaVenkatesh)
-Name- Malavika.V
-Tech I know - application development, image processing
-I can contribute in the devlopment
+3. [Harishma Arivazhagan](https://github.com/HarishmaA/)  
+    **Tech I already know:** *Spring, ReactJS*  
+   *I can help in FrontEndDevelopment with ReactJS*  
+4. [Malavika Venkatesh](https://github.com/MalavikaVenkatesh)  
+    **Tech I already know:** *application development, image processing*  
+   *I can contribute in the development*  
 5. [Bhuvana](https://github.com/bhuvana-guna)
 6. [Meera Sundar](https://github.com/meerasndr) 
 7. [L.R.Sowmya](https://github.com/SowmyaLR)
