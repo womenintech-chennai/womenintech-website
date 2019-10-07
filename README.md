@@ -30,4 +30,5 @@ I can contribute in the devlopment
 8. [Eswari Jayakumar](https://github.com/eswarijayakumar)  
     **Tech I already know:** *Java and JS Frameworks*  
    *I can help in both frontend and backend development of this site*
+9. [Ming Yong](https://github.com/ming-yong) knows HTML, CSS and vanilla JS and can help with development and documentation.
 
