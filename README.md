@@ -42,4 +42,7 @@ Now you can view the server locally in your browser at http://localhost:8000
     **Tech I already know:** *Java and JS Frameworks*  
    *I can help in both frontend and backend development of this site*
 9. [Ming Yong](https://github.com/ming-yong) knows HTML, CSS and vanilla JS and can help with development and documentation.
-
+10.[Jessica Massey] (https://github.com/codesprited)
+	**Tech i already know:*HTML, CSS, C, C++, Js Frameworks*
+	*I can help in frontend development and hosting and maintaince of this website*
+	
