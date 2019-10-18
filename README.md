@@ -46,6 +46,6 @@ Now you can view the server locally in your browser at http://localhost:8000
 	**Tech i already know:*HTML, CSS, C, C++, Js Frameworks*
 	*I can help in frontend development and hosting and maintaince of this website*
 11.[Gayathri Krishnan] (https://github.com/gayathri-krishnan)
-	**Tech i already know:*Java , Java related Frameworks, SQL, Database, ETL, with a sprinling of Angular/ React*
-	*I can help with frontend or backend. I would love to documentation. Sometimes I use comments/javadoc to think out loud*
+	**Tech i already know:*Java , Java related Frameworks, SQL, Database, ETL, with a sprinkling of Angular/ React*
+	*I can help with frontend or backend. I would love to do documentation. Sometimes I use comments/javadoc to think out loud*
 		
