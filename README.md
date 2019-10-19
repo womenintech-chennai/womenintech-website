@@ -42,10 +42,13 @@ Now you can view the server locally in your browser at http://localhost:8000
     **Tech I already know:** *Java and JS Frameworks*  
    *I can help in both frontend and backend development of this site*
 9. [Ming Yong](https://github.com/ming-yong) knows HTML, CSS and vanilla JS and can help with development and documentation.
-10.[Jessica Massey] (https://github.com/codesprited)
+10. [Jessica Massey](https://github.com/codesprited)
 	**Tech i already know:*HTML, CSS, C, C++, Js Frameworks*
 	*I can help in frontend development and hosting and maintaince of this website*
-11.[Gayathri Krishnan] (https://github.com/gayathri-krishnan)
+11. [Srimathi Harinarayanan](https://github.com/shrimats)   
+**Tech I already know** Java, JS, Python and more!
+*I can help in both frontend and backend*
+12. [Nikhil Kumaran S](https://github.com/Nikhil-Kumaran) knows ReactJS and NodeJS
+13. [Gayathri Krishnan] (https://github.com/gayathri-krishnan)
 	**Tech i already know:*Java , Java related Frameworks, SQL, Database, ETL, with a sprinkling of Angular/ React*
 	*I can help with frontend or backend. I would love to do documentation. Sometimes I use comments/javadoc to think out loud*
-		
