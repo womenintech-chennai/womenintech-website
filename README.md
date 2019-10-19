@@ -45,7 +45,8 @@ Now you can view the server locally in your browser at http://localhost:8000
 10. [Jessica Massey](https://github.com/codesprited)
 	**Tech i already know:*HTML, CSS, C, C++, Js Frameworks*
 	*I can help in frontend development and hosting and maintaince of this website*
-11. [Srimathi Harinarayanan](https://github.com/shrimats)   **Tech I already know** Java, JS, Python and more!
+11. [Srimathi Harinarayanan](https://github.com/shrimats)   
+**Tech I already know** Java, JS, Python and more!
 *I can help in both frontend and backend*
-    
-	
+12. [Nikhil Kumaran S](https://github.com/Nikhil-Kumaran) knows ReactJS and NodeJS
+
