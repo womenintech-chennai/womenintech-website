@@ -45,14 +45,16 @@ Now you can view the server locally in your browser at http://localhost:8000
 10. [Jessica Massey](https://github.com/codesprited)
 	**Tech i already know:*HTML, CSS, C, C++, Js Frameworks*
 	*I can help in frontend development and hosting and maintaince of this website*
-
 11. [Srimathi Harinarayanan](https://github.com/shrimats)   
 **Tech I already know** Java, JS, Python and more!
 *I can help in both frontend and backend*
 12. [Nikhil Kumaran S](https://github.com/Nikhil-Kumaran) knows ReactJS and NodeJS
-13. [Gayathri Krishnan] (https://github.com/gayathri-krishnan)
+13. [Gayathri Krishnan](https://github.com/gayathri-krishnan)
 	**Tech i already know:*Java , Java related Frameworks, SQL, Database, ETL, with a sprinkling of Angular/ React*
 	*I can help with frontend or backend. I would love to do documentation. Sometimes I use comments/javadoc to think out loud*
 14. [Praba Prakash](https://github.com/prabaprakash)
     **Tech I already know: NodeJS, ReactJS, Docker, Kubernetes, etc**
     *I'm full stack, can help with all expect CSS*
+15. [Aatika Khan](https://github.com/aatikakhan) **Flutter dev, like to work on Mobile apps 
+    ** Mentors Beginners specially and motivating people to take stand about their self in a tech industry **
+    * Knows: *Java,C++,C,HTML/CSS, MYSQL, Firebase*
