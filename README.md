@@ -60,3 +60,4 @@ Now you can view the server locally in your browser at http://localhost:8000
     * Knows: *Java,C++,C,HTML/CSS, MYSQL, Firebase*
 16. [Sabesan Sathananthan](https://github.com/sabesansathananthan)
     * Knows: *ReactJs, Typescript, Node Js, Java, springboot*
+17. [Ivana Livaja](https://github.com/Ivilili)  *HTML/CSS, ReactJS and NodeJS*
